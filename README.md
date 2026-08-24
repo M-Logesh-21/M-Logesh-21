@@ -48,5 +48,5 @@ in VAPT, Ethical Hacking, Network Security, and Security Analysis.
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/logeshm21
+- LinkedIn: www.linkedin.com/in/logeshm21
 - Email: logeshm962@gmail.com
